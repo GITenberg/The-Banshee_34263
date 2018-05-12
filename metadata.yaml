@@ -1,0 +1,33 @@
+_repo: The-Banshee_34263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Donnell, Elliott
+    alias: O'Donnell, Elliot
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '5469'
+    url: http://www.gutenberg.org/2009/agents/5469
+    wikipedia: http://en.wikipedia.org/wiki/Elliott_O%27Donnell
+description: The banshee is a fearsome female creature that figures heavily in Irish
+  mythology. Usually regarded as a harbinger of death and doom, the banshee is often
+  depicted as wearing bloodstained clothing and unleashing an unearthly howl when
+  someone is about to perish. This comprehensive study of banshee mythology from folklorist
+  Elliott O'Donnell is one of the most extensive volumes ever published on the subject.
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts'
+- !lcsh 'Spirits'
+- !lcc 'GR'
+title: The Banshee
+url: http://www.gutenberg.org/ebooks/34263
